@@ -1,4 +1,4 @@
 Common-Controls
 ===============
 
-Visuals and source file for Firefox OS Common Controls
+Visuals and source files for Firefox OS User Interface components
